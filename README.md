@@ -3,5 +3,6 @@ Eclipse IDE yardımı ile geliştirilmiş, bina ve mülk fiyatlarının gerçek 
 Nesne yönelimli programlamanın özelliklerini etkin bir şekilde  oyunun her kısmında kullanmak hedeflenerek, Bilgisayar Programlama II dersi dönem sonu projesi olarak 3 kişi tarafından geliştirildi. <br/>
 Kullanılan yöntemler: Çok şekillilik, soyutlama, kapsülleme, arayüzler...<br/>
 An alternative Monopoly game that has exchange-affected buildings and tests the players knowledge. <br/>
+Program uses AWT library as its base foundation
 Object oriented programming methods used: Polymorphism, Abstraction, Encapsulation, Interfaces...
 
